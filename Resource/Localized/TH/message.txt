@@ -1,0 +1,2 @@
+***Variable***
+${MESSAGE}      สุนัข

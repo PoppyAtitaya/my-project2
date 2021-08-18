@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "my-project",
+			"path": "..\\my-project"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
